@@ -167,4 +167,3 @@ Vikas Siricilla
 Aspiring Data Analyst | Python Developer | Power BI | SQL | Machine Learning
 
 GitHub: https://github.com/siricillavikas-ops
-LinkedIn: (Add your LinkedIn profile link)
